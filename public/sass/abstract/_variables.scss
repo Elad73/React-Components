@@ -1,0 +1,27 @@
+$color-primary-background: #ede7f6;
+$color-primary-background-light: #fff;
+$color-primary-background-dark: #e1daec;
+
+$color-text-primary: #b39ddb;
+
+$color-primary: rgb(186, 104, 200);
+$color-primary-light: rgb(149, 117, 205);
+$color-primary-dark: rgb(121, 134, 203);
+
+$color-primary-complementary: rgb(201, 255, 140);
+$color-primary-complementary-light: rgb(214, 255, 166);
+$color-primary-complementary-dark: rgb(133, 179, 80);
+
+// custom for react-pro-sidebar
+$sidebar-bg-color: $color-primary-dark;
+$sidebar-color: $color-primary-complementary-dark !default;
+$sidebar-width: 350px !default;
+$sidebar-collapsed-width: 80px !default;
+
+$color-shadow: rgb(121, 134, 203);
+$color-white: #fff;
+
+// font variables ruler = font-size
+$ruler: 16px;
+
+$box-shadow: inset 1px 1px 2px #b39ddb, inset -1px -1px 2px #fff;

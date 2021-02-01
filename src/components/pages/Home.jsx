@@ -1,4 +1,3 @@
-import react from 'react';
 import Navbar from '../re-usable/navbar/Navbar';
 
 const Home = () => {

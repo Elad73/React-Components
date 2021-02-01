@@ -5,10 +5,10 @@ const Social = () => {
         <div>
             <ul>
                 <li>
-                    <a href='/'></a>
+                    <a href='/'>Facebook</a>
                 </li>
                 <li>
-                    <a href='/'></a>
+                    <a href='/'>Twitter</a>
                 </li>
             </ul>
         </div>

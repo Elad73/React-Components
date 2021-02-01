@@ -1,0 +1,27 @@
+.navbar:before,
+.navbar:after {
+    content: ' ';
+    display: table;
+}
+
+.navbar:after {
+    clear: both;
+}
+
+.navbar {
+    display: none;
+    position: relative;
+    min-height: 5rem;
+    margin-bottom: 2rem;
+    border: 1px solid transparent;
+}
+
+.logo {
+    width: 2rem;
+}
+
+@media (min-width: 768px) {
+    .navbar {
+        border-radius: 4px;
+    }
+}

@@ -5,8 +5,8 @@ const Logo = () => {
         <div>
             <div className='logo'>
                 <a href='/'>
-                    <img src='images/logo/logo-light.png' alt='logo' />
-                    <img src='images/logo/logo-dark.png' alt='logo' />
+                    <img src='images/logo/logo-light.svg' alt='logo' />
+                    <img src='images/logo/logo-dark.svg' alt='logo' />
                 </a>
             </div>
         </div>

@@ -6,7 +6,7 @@ import Links from './Links';
 
 const Navbar = () => {
     return (
-        <nav className='navbar navbar-default navbar-fixed no-background dark bootsnav on no-full'>
+        <nav className='navbar'>
             <div className='container'>
                 <Social />
                 <Logo />
